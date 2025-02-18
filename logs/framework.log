@@ -1,0 +1,6 @@
+2025-02-18 19:28:17 [main] INFO  LoggerForLog4j - avigating to URL:
+2025-02-18 19:28:20 [main] INFO  LoggerForLog4j - Login attempted with username: problem_user
+2025-02-18 19:28:22 [main] INFO  LoggerForLog4j - Closing browser session
+2025-02-18 19:28:43 [main] INFO  LoggerForLog4j - avigating to URL:
+2025-02-18 19:28:50 [main] INFO  LoggerForLog4j - Login attempted with username: performance_glitch_user
+2025-02-18 19:28:52 [main] INFO  LoggerForLog4j - Closing browser session
